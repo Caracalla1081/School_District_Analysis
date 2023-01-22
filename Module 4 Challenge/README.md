@@ -19,7 +19,7 @@ The purpose of the anaylsis related to schools of this particular district are t
   - 10th: 66
   - 11th: 68
   - 12th: 64
- - Public Avg. Math Scores by Grade:
+- Public Avg. Math Scores by Grade:
   - 9th: 64
   - 10th: 64
   - 11th: 59
