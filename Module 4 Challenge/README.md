@@ -24,7 +24,7 @@ The purpose of the anaylsis related to schools of this particular district are t
   - 10th: 64
   - 11th: 59
   - 12th: 64
- -  School Student Body Count:
+- School Student Body Count:
   - Montgomery High School: 2038
   - Green High School: 1961
   - Dixon High School: 1583
