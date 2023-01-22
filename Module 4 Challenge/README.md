@@ -6,7 +6,7 @@ The purpose of the anaylsis related to schools of this particular district are t
 - Data Source: new_full_student_data
 - Software: Jupyter Notebook 6.4.12
 
-##Key Analysis Findings:
+## Key Analysis Findings:
 - District School Budgets:
   - The average school budget across the district is $893,472.75
   - The minimum school budget in the district is $817,615
