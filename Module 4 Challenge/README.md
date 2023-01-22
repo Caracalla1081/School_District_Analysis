@@ -55,3 +55,4 @@ As it stands the main takeaways from the analysis above are:
 - Math scores in the district are neither being dragged down or lifted by an significant outliers.
 - Public schools have larger budgets than charter schools in the district, but the results related to math scores appear to be indistinguishable from each other.
 - 9th grade performance appears to be dragging overall district performances down for reading scores, but not for math scores where they slightly over perform.
+- There is a huge discrepancy between the largest student body school and the smallest.
